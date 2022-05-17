@@ -8,21 +8,21 @@ sidebar:
 
     # Profile information
     name: Papasikas Apostolis
-    tagline: Junior Software Developer, Open Source Community Building, Cyber Security enthusiast.
+    tagline: 
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: prodromos.nasis@gmail.com
+    email: papasikasapostolis@gmail.com
     #phone: +3069...
     citizenship: Greek
     #website: pnasis.gr #do not add http://
-    linkedin: Prodromos Nasis
+    linkedin: Apostolis Papasikas
     xing: 
-    github: pnasis
+    github: Opalpapas
     #telegram: Prodromos Nasis # add your nickname without '@' sign
-    gitlab: pnasis
+    #gitlab: pnasis
     bitbucket:
-    twitter: '@ProdromosNasis'
+    #twitter: '@ProdromosNasis'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -34,10 +34,15 @@ sidebar:
 
       - idiom: English
         level: Professional
-
+      
+      - idiom: German
+        level: Professional
+      
+      - idion: French
+        level: Basics
 
     interests:
-      - item: Traveling
+      - item: Diving
         link:
 
       - item: Technology
@@ -45,19 +50,20 @@ sidebar:
         
       - item: Music
         link:
-
-
+        
+      - item: Camping
+        link: 
+        
 career-profile:
     title: Career Profile
     summary: |
-      Cyber Security guy, Open-Source supporter, Problem solving abilities, interested in learning and sharing knowledge. Also interested in docker, cryptography and networking. Excellent team player.
-
+      
 education:
-    - degree: Applied Informatics - Information Management Systems
-      university: University of Macedonia (UoM)
-      time: 2020 - present
+    - degree: Electrical Engeneering & Information Technology
+      university: technical institute of technology zurich (ETH)
+      time: 2021 - present
       details: |
-        Skils: C, Algorithms, Management information systems, Information security systems, Data structures, Discrete mathematics, Databases with MySQL/MariaDB/PostgreSQL, Computer architecture, Computer networks, Operating systems, Object oriented programming, Procedural Programming, Financial accounting, Informatics Law and Ethics.                  
+        Skils: C++, Electronics                  
 
 #experiences:
 
@@ -88,41 +94,41 @@ publications:
        # authors: Cisco
        # conference: "Cisco"    
       
-      - title: Ethical Hacking
+      - title: 
         link:
-        authors: Audax Cyber Security
-        conference: Audax        
+        authors: 
+        conference:        
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: HTML5 & CSS
-        level: 75%
+      - name: C++
+        level: 50%
 
       - name: Python
-        level: 80%
+        level: 60%
 
-      - name: Java
-        level: 95%
+      #- name: Java
+       # level: 95%
 
-      - name: C
-        level: 80%
+     # - name: C
+      #  level: 80%
         
-      - name: PHP
-        level: 50%             
+     # - name: PHP
+      #  level: 50%             
 
       - name: Git
-        level: 90%
+        level: 10%
 
-      - name: Docker
-        level: 70%
+     # - name: Docker
+     #   level: 70%
 
-      - name: SQL
-        level: 80%          
+    #  - name: SQL
+     #   level: 80%          
 
       - name: Linux
-        level: 95%        
+        level: 50%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
