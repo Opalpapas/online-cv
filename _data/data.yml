@@ -60,7 +60,7 @@ career-profile:
       
 education:
     - degree: Electrical Engeneering & Information Technology
-      university: technical institute of technology zurich (ETH)
+      university: Technical Institute of Technology Zurich (ETH)
       time: 2021 - present
       details: |
         Skils: C++, Electronics                  
@@ -79,9 +79,9 @@ projects:
       My volunteer work for open source projects.
     assignments:
  
-      - title: Member of Open Source Team, University of Macedonia
-        link: "http://opensource.uom.gr"
-        tagline: "Dev team member of the open source team at University of Macedonia"
+      - title: 
+        link: "   "
+        tagline: "   "
 
 publications:
     title: Certifications
@@ -95,7 +95,7 @@ publications:
        # conference: "Cisco"    
       
       - title: 
-        link:
+        link: 
         authors: 
         conference:        
 
